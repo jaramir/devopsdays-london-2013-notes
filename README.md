@@ -136,6 +136,7 @@ http://www.slideshare.net/realgenekim/how-can-we-better-sell-devops
 * NoSQL and CD by @simonvc: http://www.slideshare.net/SimonVansColina/simonvc-bashonosqlinacontinuousdeliveryworld +1!
 * StackKicker by @simonmcc: http://www.slideshare.net/simonmccartney/stack-kicker-devopsdayslondon2013 - "Tools I wish I had found first" slide should be mandatory on tools talks! +1!
 * Using Honeyd & for testing a load balancer - mock the internet - Goooooood idea!
+* ZeroTurnaround - Install It Maybe: http://www.youtube.com/watch?v=oIu15zIsjQg
 
 ### Open Space
 
