@@ -16,6 +16,10 @@ The following is a raw, unfiltered, report of what happened to me at DevOpsDays 
 
 Signed copy of "The Phoenix Project" thanks to bmcsoftware http://www.bmc.com/
 
+## General Links
+
+* http://vimeo.com/album/2312414
+
 ## First Day
 
 ### Talks
@@ -76,6 +80,9 @@ http://blog.serverdensity.com/growing-an-ops-team-from-1-founder/
 * Drives priorities for fixing
 
 ### Ignites
+
+* What if config management was created by Game Designers by @patrickdebois: http://www.slideshare.net/jedi4ever/what-ifconfigmgtwasdesignedbygamers - Brilliant!
+
 ### Open Space
 
 * OpenStack has won the race for standard
@@ -90,6 +97,44 @@ No beer for me..
 ## Second Day
 
 ### Talks
+
+#### DEVOPS and the traditional enterprise IT - Thomas Falkenberg
+
+* The company is called payback and they have a marketing made video of what the company does. Cool! We could make one for our company too!
+* ICINGA
+* Mesh by common goals
+* Common language
+* QDOS = QA Dev Ops
+
+#### DevOps in the Hell of a Thousand Different Platforms - Sam Eaton
+https://speakerdeck.com/sameaton/devops-in-the-hell-of-a-thousand-different-platforms
+
+* Failcake. Failcake is a brilliant idea! blame free post mortem.
+* Failcake extended itself to non tech people. This thing is powerful!
+* Using the message queue as the integration point promotes transparency
+* DevOps is more like Anarcho syndicalism than Comunism. (Worker self-management, Direct action, Worker solidarity)
+* Deliver first. Evangelize later
+* ops.failcake.net
+
+#### How Can We Better Sell DevOps - Gene Kim 
+http://www.slideshare.net/realgenekim/how-can-we-better-sell-devops
+
+* DevOps helps the Business
+* We know how to fix it not how to make another (system/server)
+* Failure & Powerless
+* Stories
+* Burnout in IT is worse than first response and military (Can't find the source. http://www.secburnout.org/ maybe?)
+* You are bringing the stress home
+* Cost of IT failure: 3T$/year
+* The Goal -> The Phoenix Project
+* Storytelling
+* DevOps Cookbook
+* Slide of the downward spiral & find your business problem
+
+### Ignites
+
+* NoSQL and CD by @simonvc: http://www.slideshare.net/SimonVansColina/simonvc-bashonosqlinacontinuousdeliveryworld +1!
+* StackKicker by @simonmcc: http://www.slideshare.net/simonmccartney/stack-kicker-devopsdayslondon2013 - "Tools I wish I had found first" slide should be mandatory on tools talks! +1!
 
 ### Open Space
 
