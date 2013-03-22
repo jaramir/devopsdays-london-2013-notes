@@ -112,7 +112,7 @@ https://speakerdeck.com/sameaton/devops-in-the-hell-of-a-thousand-different-plat
 * Failcake. Failcake is a brilliant idea! blame free post mortem.
 * Failcake extended itself to non tech people. This thing is powerful!
 * Using the message queue as the integration point promotes transparency
-* DevOps is more like Anarcho syndicalism than Comunism. (Worker self-management, Direct action, Worker solidarity)
+* DevOps is more like Anarcho-syndicalism than Communism. (Worker self-management, Direct action, Worker solidarity)
 * Deliver first. Evangelize later
 * ops.failcake.net
 
@@ -135,8 +135,61 @@ http://www.slideshare.net/realgenekim/how-can-we-better-sell-devops
 
 * NoSQL and CD by @simonvc: http://www.slideshare.net/SimonVansColina/simonvc-bashonosqlinacontinuousdeliveryworld +1!
 * StackKicker by @simonmcc: http://www.slideshare.net/simonmccartney/stack-kicker-devopsdayslondon2013 - "Tools I wish I had found first" slide should be mandatory on tools talks! +1!
+* Using Honeyd & for testing a load balancer - mock the internet - Goooooood idea!
 
 ### Open Space
+
+#### Improving feedback from Ops to Dev
+
+* Have a product owner responsible from features to running to end life
+* Put monetary value on downtime
+* Leak pipe -> lost costumer at the stacktrace
+* mesure happyness by drawing harirs on sad, happy and meh faces (simpler alternative to niko niko)
+
+#### Dashboard for metrics
+
+* we all use graphite
+* Descartes
+* Gdash is missing tests
+* Graphite is moving toward decopuling the frontned from the backend
+* Kibana3 has awesome dashboards & demos demo.kibana.org
+* AppDynamic DynaTrace
+* Metric Sampler - JMX
+
+#### DevOps Community
+
+* We are doing an awesome job: Talking about comunity and everyone is looking at his phone @thesamoth
+* IRC - Freenode - ##infra-talk
+* IRCCloud
+* London DevOps (google group)
+* we meet in the Forward offices
+* Fosdem
+* LeanIT
+* Scrum
+* Monitorama
+* WebPerformance Meetup
+* Open Tech Calendar (Scottland)
+* Lanyrd
+* ScaleCamp
+* BarCamp London
+* LunchOps
+* MonkyGras, redmon, the thing organized by James Governor
+* Twitter about tech
+* Mary from O'Reilly
+* DevOps for Developers
+* Getting real
+* Rework
+* Lean Principles
+* DevOps Angle
+* The Ship Show
+* Food Fight Show
+* DevOps Cafe
+* Floss Weekly
+* Planet DevOps
+* cfengine papers
+* DevOps December Sysadmin Guest Posts
+* QCon (or QCom?)
+* DevOps Reactions
 
 ### Later at the Euston Tap
 
