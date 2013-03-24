@@ -26,6 +26,8 @@ Signed copy of "The Phoenix Project" thanks to bmcsoftware http://www.bmc.com/
 
 #### DevOps For Dinosaurs - Niek Bartholomeus 
 
+http://vimeo.com/62491557
+
 https://speakerdeck.com/niekbartho/devops-for-dinosaurs
 
 * Business asks Dev to be fast in producing the software and asks Ops to be reliable in running that same software. Software delivery does not work.
@@ -81,7 +83,11 @@ http://blog.serverdensity.com/growing-an-ops-team-from-1-founder/
 
 ### Ignites
 
-* What if config management was created by Game Designers by @patrickdebois: http://www.slideshare.net/jedi4ever/what-ifconfigmgtwasdesignedbygamers - Brilliant!
+#### What if config management was created by Game Designers - @patrickdebois
+
+http://www.slideshare.net/jedi4ever/what-ifconfigmgtwasdesignedbygamers
+
+* Brilliant!
 
 ### Open Space
 
@@ -100,6 +106,8 @@ No beer for me..
 
 #### DEVOPS and the traditional enterprise IT - Thomas Falkenberg
 
+http://vimeo.com/62330884
+
 * The company is called payback and they have a marketing made video of what the company does. Cool! We could make one for our company too!
 * ICINGA
 * Mesh by common goals
@@ -107,6 +115,9 @@ No beer for me..
 * QDOS = QA Dev Ops
 
 #### DevOps in the Hell of a Thousand Different Platforms - Sam Eaton
+
+http://vimeo.com/62330508
+
 https://speakerdeck.com/sameaton/devops-in-the-hell-of-a-thousand-different-platforms
 
 * Failcake. Failcake is a brilliant idea! blame free post mortem.
@@ -117,6 +128,9 @@ https://speakerdeck.com/sameaton/devops-in-the-hell-of-a-thousand-different-plat
 * ops.failcake.net
 
 #### How Can We Better Sell DevOps - Gene Kim 
+
+http://vimeo.com/62491066
+
 http://www.slideshare.net/realgenekim/how-can-we-better-sell-devops
 
 * DevOps helps the Business
@@ -133,10 +147,39 @@ http://www.slideshare.net/realgenekim/how-can-we-better-sell-devops
 
 ### Ignites
 
-* NoSQL and CD by @simonvc: http://www.slideshare.net/SimonVansColina/simonvc-bashonosqlinacontinuousdeliveryworld +1!
-* StackKicker by @simonmcc: http://www.slideshare.net/simonmccartney/stack-kicker-devopsdayslondon2013 - "Tools I wish I had found first" slide should be mandatory on tools talks! +1!
-* Using Honeyd & for testing a load balancer - mock the internet - Goooooood idea!
-* ZeroTurnaround - Install It Maybe: http://www.youtube.com/watch?v=oIu15zIsjQg
+#### Threshold Voting Workshops
+
+http://vimeo.com/62491065
+
+#### NoSQL and CD by @simonvc
+
+http://www.slideshare.net/SimonVansColina/simonvc-bashonosqlinacontinuousdeliveryworld
+
+* +1!
+
+#### StackKicker by @simonmcc
+
+http://vimeo.com/62491069
+
+http://www.slideshare.net/simonmccartney/stack-kicker-devopsdayslondon2013
+
+* "Tools I wish I had found first" slide should be mandatory on tools talks! 
+* +1!
+
+#### Using Honeyd & for testing a load balancer
+
+http://vimeo.com/62491068
+
+* mock the internet 
+* Goooooood idea!
+
+#### Clean Cloud Computing
+
+http://vimeo.com/62491067
+
+#### ZeroTurnaround - Install It Maybe
+
+http://www.youtube.com/watch?v=oIu15zIsjQg
 
 ### Open Space
 
