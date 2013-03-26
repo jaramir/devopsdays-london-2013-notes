@@ -20,11 +20,9 @@ Signed copy of "The Phoenix Project" thanks to bmcsoftware http://www.bmc.com/
 
 * http://vimeo.com/album/2312414
 
-## First Day
+## Talks
 
-### Talks
-
-#### DevOps For Dinosaurs - Niek Bartholomeus 
+### DevOps For Dinosaurs - Niek Bartholomeus
 
 http://vimeo.com/62491557
 
@@ -35,7 +33,7 @@ https://speakerdeck.com/niekbartho/devops-for-dinosaurs
 * Modern companies are build with automation in mind. It's in their DNA
 * Change Management in Traditional Company. CMMI
 
-#### Checking DevOps’ vital signs - John Clapham & Paul Swartout
+### Checking DevOps’ vital signs - John Clapham & Paul Swartout
 
 They want metrics for the company culture to see if DevOps is working
 
@@ -57,7 +55,7 @@ They want metrics for the company culture to see if DevOps is working
 * Data > Opinions
 * Opinions matched Data
 
-#### StartOps: Growing an ops team from 1 founder - David Mytton
+### StartOps: Growing an ops team from 1 founder - David Mytton
 
 How to apply DevOps even if you are a start-up, without huge cash and not based in Frisco
 
@@ -73,7 +71,7 @@ http://blog.serverdensity.com/growing-an-ops-team-from-1-founder/
 * serverdensity.com/dd
 * Migrated from Bamboo to Travis to avoid wasting time managing internal services
 
-#### Adding Business Metrics - Deri Jones
+### Adding Business Metrics - Deri Jones
 
 * Ads have been commoditizated (both Google and Social)
 * The differentiator can be the UX on your site
@@ -81,30 +79,7 @@ http://blog.serverdensity.com/growing-an-ops-team-from-1-founder/
 * Graph of Lost Sale: Graph of sale of typical week * outages
 * Drives priorities for fixing
 
-### Ignites
-
-#### What if config management was created by Game Designers - @patrickdebois
-
-http://www.slideshare.net/jedi4ever/what-ifconfigmgtwasdesignedbygamers
-
-* Brilliant!
-
-### Open Space
-
-* OpenStack has won the race for standard
-* Pulp for configuration management
-* ZooKepper for dynamic configurations + source for static info
-* GridMaster
-
-Runny nose is ruining my evening.. 
-No beer for me.. 
-1.5g of paracetamol later..
-
-## Second Day
-
-### Talks
-
-#### DEVOPS and the traditional enterprise IT - Thomas Falkenberg
+### DEVOPS and the traditional enterprise IT - Thomas Falkenberg
 
 http://vimeo.com/62330884
 
@@ -114,7 +89,7 @@ http://vimeo.com/62330884
 * Common language
 * QDOS = QA Dev Ops
 
-#### DevOps in the Hell of a Thousand Different Platforms - Sam Eaton
+### DevOps in the Hell of a Thousand Different Platforms - Sam Eaton
 
 http://vimeo.com/62330508
 
@@ -127,7 +102,7 @@ https://speakerdeck.com/sameaton/devops-in-the-hell-of-a-thousand-different-plat
 * Deliver first. Evangelize later
 * ops.failcake.net
 
-#### How Can We Better Sell DevOps - Gene Kim 
+### How Can We Better Sell DevOps - Gene Kim
 
 http://vimeo.com/62491066
 
@@ -145,52 +120,63 @@ http://www.slideshare.net/realgenekim/how-can-we-better-sell-devops
 * DevOps Cookbook
 * Slide of the downward spiral & find your business problem
 
-### Ignites
+## Ignites
 
-#### Threshold Voting Workshops
+### Threshold Voting Workshops
 
 http://vimeo.com/62491065
 
-#### NoSQL and CD by @simonvc
+### NoSQL and CD by @simonvc
 
 http://www.slideshare.net/SimonVansColina/simonvc-bashonosqlinacontinuousdeliveryworld
 
 * +1!
 
-#### StackKicker by @simonmcc
+### StackKicker by @simonmcc
 
 http://vimeo.com/62491069
 
 http://www.slideshare.net/simonmccartney/stack-kicker-devopsdayslondon2013
 
-* "Tools I wish I had found first" slide should be mandatory on tools talks! 
+* "Tools I wish I had found first" slide should be mandatory on tools talks!
 * +1!
 
-#### Using Honeyd & for testing a load balancer
+### Using Honeyd & for testing a load balancer
 
 http://vimeo.com/62491068
 
-* mock the internet 
+* mock the internet
 * Goooooood idea!
 
-#### Clean Cloud Computing
+### Clean Cloud Computing
 
 http://vimeo.com/62491067
 
-#### ZeroTurnaround - Install It Maybe
+### ZeroTurnaround - Install It Maybe
 
 http://www.youtube.com/watch?v=oIu15zIsjQg
 
-### Open Space
+### What if config management was created by Game Designers - @patrickdebois
 
-#### Improving feedback from Ops to Dev
+http://www.slideshare.net/jedi4ever/what-ifconfigmgtwasdesignedbygamers
+
+* Brilliant!
+
+## Open Space
+
+* OpenStack has won the race for standard
+* Pulp for configuration management
+* ZooKepper for dynamic configurations + source for static info
+* GridMaster
+
+### Improving feedback from Ops to Dev
 
 * Have a product owner responsible from features to running to end life
 * Put monetary value on downtime
 * Leak pipe -> lost costumer at the stacktrace
 * mesure happyness by drawing harirs on sad, happy and meh faces (simpler alternative to niko niko)
 
-#### Dashboard for metrics
+### Dashboard for metrics
 
 * we all use graphite
 * Descartes
@@ -200,47 +186,57 @@ http://www.youtube.com/watch?v=oIu15zIsjQg
 * AppDynamic DynaTrace
 * Metric Sampler - JMX
 
-#### DevOps Community
+### DevOps Community
 
-* We are doing an awesome job: Talking about comunity and everyone is looking at his phone @thesamoth
-* IRC - Freenode - ##infra-talk
-* IRCCloud
-* London DevOps (google group)
-* we meet in the Forward offices
-* Fosdem
-* LeanIT
-* Scrum
-* Monitorama
-* WebPerformance Meetup
-* Open Tech Calendar (Scottland)
-* Lanyrd
-* ScaleCamp
-* BarCamp London
-* LunchOps
-* MonkyGras, redmon, the thing organized by James Governor
-* Twitter about tech
-* Mary from O'Reilly
-* DevOps for Developers
-* Getting real
-* Rework
-* Lean Principles
-* DevOps Angle
-* The Ship Show
-* Food Fight Show
-* DevOps Cafe
-* Floss Weekly
-* Planet DevOps
-* cfengine papers
-* DevOps December Sysadmin Guest Posts
-* QCon (or QCom?)
-* DevOps Reactions
+We are doing an awesome job: Talking about comunity and everyone is looking at his phone -- @thesamoth
 
-### Later at the Euston Tap
+* Tools
+  * IRC
+    * Freenode
+      * ##infra-talk
+    * IRC Cloud https://www.irccloud.com/
+  * Twitter
+    * Twit about the tech you use
+  * LdnDevOps Google Group https://groups.google.com/forum/?fromgroups=#!forum/london-devops
+    * we meet in the Forward offices http://forwardtechnology.co.uk/events
+* People
+  * Mary Rotman/Thengvall Community Manager @ O'Reilly https://twitter.com/mary_grace
+* Sites
+  * DevOps December Sysadmin Guest Posts https://puppetlabs.com/blog/looking-back-at-devops-december/
+  * DevOps Reactions http://devopsreactions.tumblr.com/
+  * cfengine author's papers http://cfengine.com/markburgess/index.html
+  * Planet DevOps http://www.planetdevops.net/
+  * DevOps Angle http://www.devopsangle.com/
+  * Open Tech Calendar http://opentechcalendar.co.uk
+* Podcasts
+  * Floss Weekly http://twit.tv/show/floss-weekly
+  * DevOps Cafe http://devopscafe.org/
+  * Food Fight Show http://foodfightshow.org/
+  * The Ship Show http://theshipshow.com/
+* Books
+  * Lean Principles - not sure
+  * DevOps for Developers https://www.google.co.uk/shopping/product/1712181197592230257
+  * Getting real https://www.google.co.uk/shopping/product/9515751910094167853
+  * Rework https://www.google.co.uk/shopping/product/2753713951273839343
+* Conferences/Events
+  * Find conferences with Lanyrd http://lanyrd.com/
+  * QCon http://qconlondon.com/
+  * MonkiGras http://monkigras.com/
+  * LunchOps https://groups.google.com/forum/?fromgroups=#!topicsearchin/london-devops/subject:LunchOps
+  * BarCamp London http://barcamplondon.org/
+  * ScaleCamp http://www.scalecamp.org.uk/
+  * WebPerformance Meetup http://www.meetup.com/London-Web-Performance-Group/
+  * Monitorama http://monitorama.com/
+  * Fosdem https://fosdem.org/
+* Other
+  * Lean IT http://en.wikipedia.org/wiki/Lean_IT
+
+## Later at the Euston Tap
 
 * TIMGroup is the most numerous company
 * War Stories
 
-### Final Considerations
+## Final words
 
 See you at the next event, on IRC and Twitter
 
